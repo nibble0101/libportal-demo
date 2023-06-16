@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=libportal_demo
+Exec=org.demo.libportal_demo
+Icon=org.demo.libportal_demo
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

@@ -1,0 +1,6 @@
+data/org.demo.libportal_demo.desktop.in
+data/org.demo.libportal_demo.appdata.xml.in
+data/org.demo.libportal_demo.gschema.xml
+src/main.js
+src/window.js
+src/window.ui

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="libportal_demo">
+	<schema id="org.demo.libportal_demo" path="/org/demo/libportal_demo/">
+	</schema>
+</schemalist>
